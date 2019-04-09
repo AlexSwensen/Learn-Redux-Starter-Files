@@ -1,0 +1,17 @@
+{
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx",
+        "xml": {
+            "attr_quotes": "single"
+        }
+    },
+    "emmet.includeLanguages": {
+        
+    },
+    "jshint.enable": false,
+    "files.defaultLanguage": "javascriptreact",
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "editor.formatOnSave": true,
+}
